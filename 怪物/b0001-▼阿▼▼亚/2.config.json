@@ -1,0 +1,52 @@
+{
+  "type": 9,
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "motions": {
+    "idle": [
+      {
+        "file": "Scene_Idle_1",
+        "file_loop": true
+      }
+    ],
+    "tap": [
+      {
+        "file": "Scene_Attack"
+      },
+      {
+        "file": "Scene_ExSkill"
+      },
+      {
+        "file": "Scene_Hit"
+      },
+      {
+        "file": "Scene_MarchIn"
+      },
+      {
+        "file": "Scene_Skill1"
+      }
+    ]
+  },
+  "options": {
+    "scale_factor": 0.01,
+    "position_x": -0.793827534,
+    "position_y": -5.49724531,
+    "edge_padding": false,
+    "shader": "Skeleton-Straight-Alpha"
+  },
+  "skeleton": "TextAsset/Monster_B0001_Scene.skel.asset",
+  "atlases": [
+    {
+      "atlas": "TextAsset/Monster_B0001_Scene.atlas.asset",
+      "tex_names": [
+        "Monster_B0001_Scene"
+      ],
+      "textures": [
+        "Texture2D/Monster_B0001_Scene.png"
+      ]
+    }
+  ]
+}

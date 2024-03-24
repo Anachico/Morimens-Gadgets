@@ -1,0 +1,51 @@
+{
+  "type": 9,
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "motions": {
+    "idle": [
+      {
+        "file": "Idle_1"
+      }
+    ],
+    "tap": [
+      {
+        "file": "Attack"
+      },
+      {
+        "file": "Die"
+      },
+      {
+        "file": "Hit"
+      },
+      {
+        "file": "MarchIn"
+      },
+      {
+        "file": "Skill1"
+      },
+      {
+        "file": "Summon"
+      }
+    ]
+  },
+  "options": {
+    "edge_padding": false,
+    "shader": "Skeleton-Straight-Alpha"
+  },
+  "skeleton": "TextAsset/BUnit_Monster_B0005_BT.skel.asset",
+  "atlases": [
+    {
+      "atlas": "TextAsset/BUnit_Monster_B0005_BT.atlas.asset",
+      "tex_names": [
+        "BUnit_Monster_B0005_BT"
+      ],
+      "textures": [
+        "Texture2D/BUnit_Monster_B0005_BT.png"
+      ]
+    }
+  ]
+}

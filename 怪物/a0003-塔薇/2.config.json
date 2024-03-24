@@ -1,0 +1,24 @@
+{
+  "type": 9,
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "options": {
+    "edge_padding": false,
+    "shader": "Skeleton-Straight-Alpha"
+  },
+  "skeleton": "TextAsset/Monster_A0003_MarchIn_Back.skel.asset",
+  "atlases": [
+    {
+      "atlas": "TextAsset/Monster_A0003_MarchIn_Back.atlas.asset",
+      "tex_names": [
+        "Monster_A0003_MarchIn_Back"
+      ],
+      "textures": [
+        "Texture2D/Monster_A0003_MarchIn_Back.png"
+      ]
+    }
+  ]
+}

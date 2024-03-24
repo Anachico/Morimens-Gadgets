@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4764411647259382691
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8533794578083699907
+  },
+  "m_Name": "",
+  "skeletonRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 7672228707213208020
+  },
+  "boneName": "body",
+  "followXYPosition": 1,
+  "followZPosition": 1,
+  "followBoneRotation": 1,
+  "followSkeletonFlip": 1,
+  "followLocalScale": 0,
+  "followParentWorldScale": 0,
+  "maintainedAxisOrientation": 1,
+  "initializeOnAwake": 1
+}

@@ -1,0 +1,55 @@
+{
+  "type": 9,
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "motions": {
+    "idle": [
+      {
+        "file": "Idle_1",
+        "file_loop": true
+      }
+    ],
+    "tap": [
+      {
+        "file": "Attack"
+      },
+      {
+        "file": "ExSkill"
+      },
+      {
+        "file": "Hit"
+      },
+      {
+        "file": "Hit2"
+      },
+      {
+        "file": "MarchIn"
+      },
+      {
+        "file": "Skill1"
+      }
+    ]
+  },
+  "options": {
+    "scale_factor": 0.01,
+    "position_x": -0.1587663,
+    "position_y": -3.016537,
+    "edge_padding": false,
+    "shader": "Skeleton-Straight-Alpha"
+  },
+  "skeleton": "TextAsset/BUnit_Monster_A0003.skel.asset",
+  "atlases": [
+    {
+      "atlas": "TextAsset/BUnit_Monster_A0003.atlas.asset",
+      "tex_names": [
+        "BUnit_Monster_A0003"
+      ],
+      "textures": [
+        "Texture2D/BUnit_Monster_A0003.png"
+      ]
+    }
+  ]
+}

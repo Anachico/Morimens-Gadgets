@@ -1,0 +1,42 @@
+{
+  "type": 9,
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "motions": {
+    "idle": [
+      {
+        "file": "Idle_1"
+      }
+    ],
+    "tap": [
+      {
+        "file": "Attack"
+      },
+      {
+        "file": "Hit"
+      },
+      {
+        "file": "Skill1"
+      }
+    ]
+  },
+  "options": {
+    "edge_padding": false,
+    "shader": "Skeleton-Straight-Alpha"
+  },
+  "skeleton": "TextAsset/BUnit_Monster_C0101_BT.skel.asset",
+  "atlases": [
+    {
+      "atlas": "TextAsset/BUnit_Monster_C0101_BT.atlas.asset",
+      "tex_names": [
+        "BUnit_Monster_C0101_BT"
+      ],
+      "textures": [
+        "Texture2D/BUnit_Monster_C0101_BT.png"
+      ]
+    }
+  ]
+}

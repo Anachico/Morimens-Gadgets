@@ -1,0 +1,53 @@
+{
+  "type": 9,
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "motions": {
+    "idle": [
+      {
+        "file": "Idle_close"
+      }
+    ],
+    "tap": [
+      {
+        "file": "Attack1_close"
+      },
+      {
+        "file": "Attack2_close"
+      },
+      {
+        "file": "Attack3_close"
+      },
+      {
+        "file": "Hit_close"
+      },
+      {
+        "file": "MarchIn_close"
+      },
+      {
+        "file": "Skill1_close"
+      },
+      {
+        "file": "Skill2_close"
+      }
+    ]
+  },
+  "options": {
+    "edge_padding": false
+  },
+  "skeleton": "TextAsset/Monster_B0005_close.skel.asset",
+  "atlases": [
+    {
+      "atlas": "TextAsset/Monster_B0005_close.atlas.asset",
+      "tex_names": [
+        "Monster_B0005_close"
+      ],
+      "textures": [
+        "Texture2D/Monster_B0005_close.png"
+      ]
+    }
+  ]
+}
