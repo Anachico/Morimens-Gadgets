@@ -1,0 +1,38 @@
+{
+    "awaker": {
+        "B05": {
+            "AF":{
+                "atlas":"BUnit_Awaker_B05_AF.atlas",
+                "skel":"BUnit_Awaker_B05_AF.skel",
+                "texture":"BUnit_Awaker_B05_AF.png"
+            },
+            "BF":{
+                "atlas":"BUnit_Awaker_B05_BF.atlas",
+                "skel":"BUnit_Awaker_B05_BF.skel",
+                "texture":"BUnit_Awaker_B05_BF.png"
+            }
+        }
+    },
+    "battle":{
+        "Tentacle":{
+            "atlas":"chushou_spine.atlas",
+            "skel":"chushou_spine.skel",
+            "texture":"chushou_spine.png"
+        }
+    },
+    "l2d":{
+        "Ramona-Loop":{
+            "atlas":"Portrait_Middle_Awaker_C01EX_AF_Ani.atlas",
+            "skel":"Portrait_Middle_Awaker_C01EX_AF_Ani.skel",
+            "texture":"Portrait_Middle_Awaker_C01EX_AF_Ani.png"
+        }
+    },
+    "monster":{
+
+    },
+    "pvp":{
+        "atlas":"UI_Pvp_Vx_Spine_Searching.atlas",
+        "skel":"UI_Pvp_Vx_Spine_Searching.skel",
+        "texture":"UI_Pvp_Vx_Spine_Searching.png"
+    }
+}
